@@ -61,3 +61,7 @@ body {
     display: flex;
     justify-content: center;
 }
+
+img {
+    margin-left: 20px;
+}
