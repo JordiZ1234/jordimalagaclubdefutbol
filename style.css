@@ -66,3 +66,8 @@ body {
 img {
     margin-left: 20px;
 }
+
+.container {
+    width: 1600px;
+    height: auto;
+}
