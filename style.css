@@ -19,6 +19,7 @@
 h1 {
     justify-content: center;
     display: flex;
+    padding-left: 250px;
 }
 
 h2 {
